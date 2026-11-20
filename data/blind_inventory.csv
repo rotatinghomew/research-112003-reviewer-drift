@@ -1,0 +1,9 @@
+clip,standard,category,difficulty,eligible_groups,minutes,allowed_from
+p1,v2,claims,hard,alpha|beta,3,14
+p2,v2,claims,ordinary,alpha|beta,2,14
+p3,v2,claims,ordinary,beta|neutral,2,14
+p4,v2,claims,hard,alpha|neutral,5,14
+p5,v2,context,ordinary,alpha|beta,2,14
+p6,v1,context,hard,alpha|beta,3,14
+p7,v2,service,ordinary,alpha|neutral,2,16
+p8,v2,claims,hard,alpha|beta|neutral,5,14
