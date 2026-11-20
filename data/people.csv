@@ -1,0 +1,8 @@
+reviewer,team,category,can_countersign,available
+a1,alpha,claims,1,4
+a2,alpha,context,1,2
+a3,alpha,service,1,2
+b1,beta,claims,1,2
+b2,beta,context,1,3
+b3,beta,claims,1,1
+c1,neutral,service,1,2

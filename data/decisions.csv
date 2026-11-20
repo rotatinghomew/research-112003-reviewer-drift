@@ -1,0 +1,4 @@
+id,wave,category,asof,min_anchors,max_error,reviewer,scope
+d1,2,claims,12,4,0.28,b1,independent
+d2,2,context,12,4,0.23,a2,joint
+d3,3,service,17,4,0.25,a3,independent

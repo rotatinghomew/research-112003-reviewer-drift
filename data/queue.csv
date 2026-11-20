@@ -1,0 +1,6 @@
+case,clip,category,author,second,decision,state
+k1,c054,claims,b1,,d1,pending
+k2,c060,claims,b1,b3,d1,countersigned
+k3,c072,claims,b1,,d1,executed
+k4,c065,context,a2,,d2,pending
+k5,c100,service,a3,,d3,pending
